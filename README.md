@@ -3,7 +3,7 @@
     Read More: https://therealprogrammer.com/Laravel8-Shopping-Cart
 ## About
 
-<img src="https://media0.giphy.com/media/zrzwaJ3pqu1YHlNsxX/giphy.gif" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/Laravel8-Shopping-Cart/main/public/shoppingcart.png" width="100%">
 
 First Step: download in your system.
 
