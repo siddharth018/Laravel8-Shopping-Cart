@@ -28,7 +28,7 @@ Run Migration command
 
     php artisan migrate
 
-Run Seeder command
+Run ProductSeeder Seeder command
     
     php artisan db:seed --class=ProductSeeder
 
