@@ -17,6 +17,13 @@ composer install
 
 Put your database credentils .env file.
 
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=laravel_cart
+    DB_USERNAME=root
+    DB_PASSWORD=root@123
+
 Run Migration command
 
     php artisan migrate
